@@ -1,2 +1,0 @@
-e132e01bbeecf01de851ef97f06f6d85cba7b783
-https://api.waqi.info/feed/--------City--------/?token=e132e01bbeecf01de851ef97f06f6d85cba7b783
